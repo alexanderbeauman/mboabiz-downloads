@@ -1,6 +1,6 @@
 # MboaBiz — téléchargements Android
 
-Télécharge l’application Android depuis la page [Releases](https://github.com/alexanderbeauman/mboabiz-downloads/releases/latest).
+Télécharge l’application Android depuis la page [Releases](https://github.com/alexanderbeauman/mboabiz-downloads/releases).
 
 ## Version proposée
 
